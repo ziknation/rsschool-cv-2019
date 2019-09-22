@@ -28,4 +28,4 @@ Had tried to create some easy games such as [XO](https://github.com/ziknation/XO
     * Itransition course in Front-end specialization.
 
 ### English:
-B1(learned English on university courses 2 years ago(certificate available),reading articles, listening to podcasts and watch videos in english)
+B1(learned English on university courses 2 years ago(certificate available), reading articles, listening to podcasts and watch videos in english)
