@@ -1,0 +1,39 @@
+body{
+    width:1000px;
+    margin:0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-bottom:100px;
+}
+
+header{
+    text-align: center;
+}
+
+header li{
+    list-style-type: none;
+}
+
+h1{
+    font-size:40px;
+}
+
+p,a,span,li{
+    font-size:20px;
+}
+
+h3{
+    font-size:24px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+img{
+    height:250px;
+    border-radius: 50%;
+}
