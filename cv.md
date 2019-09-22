@@ -19,7 +19,7 @@ Junior front-end developer. Trying to learn modern JS stack. Doing my best for s
 * XO Game: [XO](https://github.com/ziknation/XO-game-project)
 
 ### Experience:
-Had tried to create some easy games such as XO(JS), 2048(C++), Rock Paper Scissors(Java).
+Had tried to create some easy games such as [XO](https://github.com/ziknation/XO-game-project)(JS), 2048(C++), Rock Paper Scissors(Java).
 
 ### Education:
 * _High school_: incomplete higher education(Belarusian State University of Informatics and Radio electronics/ since 2016)
@@ -28,4 +28,4 @@ Had tried to create some easy games such as XO(JS), 2048(C++), Rock Paper Scisso
     * Itransition course in Front-end specialization.
 
 ### English:
-B1(reading articles, listening to podcasts and watch videos in english)
+B1(learned English on university courses 2 years ago(certificate available),reading articles, listening to podcasts and watch videos in english)
